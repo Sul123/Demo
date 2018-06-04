@@ -1,0 +1,1 @@
+/usr/bin/g++-7  -g  -rdynamic CMakeFiles/jpeg_decoder.dir/main.cpp.o CMakeFiles/jpeg_decoder.dir/decoder.cpp.o CMakeFiles/jpeg_decoder.dir/errors.cpp.o CMakeFiles/jpeg_decoder.dir/bit_reader.cpp.o CMakeFiles/jpeg_decoder.dir/huffman.cpp.o  -o jpeg_decoder -lfftw3 -lpng 

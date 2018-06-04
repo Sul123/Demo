@@ -1,0 +1,5 @@
+{
+    "allow_change": ["CMakeLists.txt", "**/*.cpp", "**/*.h"],
+    "disable_tsan": true,
+    "tests": ["test_baseline"]
+}
