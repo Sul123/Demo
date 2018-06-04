@@ -1,0 +1,1 @@
+/usr/bin/c++   -fsanitize=address -g   CMakeFiles/Dzen.dir/main.cpp.o CMakeFiles/Dzen.dir/dynamic_graph.cpp.o CMakeFiles/Dzen.dir/et_forest.cpp.o  -o Dzen 

@@ -1,0 +1,48 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/sul/DemoLocal/Full dynamic connectivity/dynamic_graph.cpp
+cmath
+-
+dynamic_graph.h
+/home/sul/DemoLocal/Full dynamic connectivity/dynamic_graph.h
+
+/home/sul/DemoLocal/Full dynamic connectivity/dynamic_graph.h
+et_forest.h
+/home/sul/DemoLocal/Full dynamic connectivity/et_forest.h
+map
+-
+unordered_map
+-
+
+/home/sul/DemoLocal/Full dynamic connectivity/et_forest.cpp
+et_forest.h
+/home/sul/DemoLocal/Full dynamic connectivity/et_forest.h
+
+/home/sul/DemoLocal/Full dynamic connectivity/et_forest.h
+iostream
+-
+vector
+-
+set
+-
+string
+-
+algorithm
+-
+stdexcept
+-
+
+/home/sul/DemoLocal/Full dynamic connectivity/main.cpp
+string
+-
+iostream
+-
+dynamic_graph.h
+/home/sul/DemoLocal/Full dynamic connectivity/dynamic_graph.h
+
