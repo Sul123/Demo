@@ -1,7 +1,5 @@
 # Jpeg Decoder
 
-<img src="tests/bad_quality.jpg" alt="harold" width="600"/>
-
 В этом домашнем задании вам предстоит реализовать декодер jpg. Обязательной частью будет реализация baseline sequential
 режима. Вы также можете заработать 500 бонусных баллов, реализовав progressive режим.
 
