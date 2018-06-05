@@ -115,7 +115,7 @@ UkkonenSuffixTree::UkkonenSuffixTree()
 
 
 void UkkonenSuffixTree::Extend(char new_symbol) {
-    new_symbol = std::tolower(new_symbol);
+    new_symbol = new_symbol;
     // add symbol to string
     str_ += new_symbol;
 
